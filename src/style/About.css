@@ -1,0 +1,15 @@
+.about-container {
+    padding: 10px;
+    background-color: black;
+    border-radius: 8px;
+}
+
+.about-head {
+    color: white;
+    font-size: 40px;
+}
+
+.about-paragraph {
+    color: white;
+    font-size: 20px;
+}
